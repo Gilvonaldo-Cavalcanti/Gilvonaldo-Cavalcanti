@@ -1,6 +1,6 @@
 ## Olá, me chamo Gilvonaldo Cavalcanti! 
 ### Bem vindo ao meu perfil GitHub 👋
-
+![](https://komarev.com/ghpvc/?username=Gilvonaldo-Cavalcanti&style=flat&color=grey&label=views)
 ### Contatos:
 
 <div>
